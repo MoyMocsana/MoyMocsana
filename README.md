@@ -21,4 +21,8 @@ I am a passionate IT student at STI College, driven by a curiosity for technolog
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
 
+## 🌟 Fun Fact About Me
+- Last year I won the national championship of Alliance Games CODM for all Collegiate Athletes.
+- I often to memorize a road or route to a destination so easily
+
 Thanks for stopping by!
