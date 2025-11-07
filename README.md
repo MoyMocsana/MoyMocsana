@@ -24,6 +24,7 @@ I am a passionate IT student at STI College, driven by a curiosity for technolog
 
 ## 🌟 Fun Fact About Me
 - Last year I won the national championship of Alliance Games CODM for all Collegiate Athletes.
-- I often to memorize a road or route to a destination so easily
+- I often to memorize a road or route to a destination so easily.
+- I do love playing games.
 
 Thanks for stopping by!
